@@ -1,0 +1,1 @@
+php test/run-tests.php
